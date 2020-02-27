@@ -1,2 +1,0 @@
-# CodeSBJSTraining
-Created with CodeSandbox
